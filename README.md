@@ -1,6 +1,6 @@
 # Hola, soy Walter David Guevara Seminario 👋
 
-### Estudiante de Ingeniería de Software con enfoque en Inteligencia Artificial 🚀
+### Estudiante de Ingeniería de Software con Inteligencia Artificial 🚀
 
 Me apasiona la tecnología, la innovación y la creación de soluciones de software eficientes. Me especializo en el desarrollo de aplicaciones (tanto de escritorio como entornos web) y el modelado estructurado de bases de datos relacionales, manteniendo una sólida base en arquitecturas limpias como MVC.
 
