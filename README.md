@@ -35,3 +35,10 @@ Me apasiona la tecnología, la innovación y la creación de soluciones de softw
 ### 📈 Mis Estadísticas en GitHub
 
 ![Estadísticas de GitHub](https://streak-stats.demolab.com/?user=Codeby-Davi&theme=radical)
+
+---
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-david-guevara-seminario-b4b246375/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wd123456689@gmail.com)
