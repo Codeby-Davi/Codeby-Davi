@@ -25,14 +25,13 @@ Me apasiona la tecnología, la innovación y la creación de soluciones de softw
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Clever_Cloud-4158D0?style=for-the-badge&logo=clevercloud&logoColor=white)
 
-**Entornos de Desarrollo y Contenedores:**
+**Herramientas y Entornos:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DDEV](https://img.shields.io/badge/DDEV-006699?style=for-the-badge&logo=ddev&logoColor=white)
-
-**Herramientas de Desarrollo:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📈 Mis Estadísticas en GitHub
 
-![Racha de Contribuciones](https://streak-stats.demolab.com/?user=Codeby-Davi&theme=radical)
+![Estadísticas de GitHub](https://streak-stats.demolab.com/?user=Codeby-Davi&theme=radical)
