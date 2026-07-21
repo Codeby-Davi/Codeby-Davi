@@ -41,6 +41,6 @@ Me apasiona la tecnología, la innovación y la creación de soluciones de softw
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-david-guevara-seminario-b4b246375/)
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=wd123456689@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=wd123456689@gmail.com" class= target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
