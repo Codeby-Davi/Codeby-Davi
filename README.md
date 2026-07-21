@@ -35,4 +35,4 @@ Me apasiona la tecnología, la innovación y la creación de soluciones de softw
 
 ### 📈 Mis Estadísticas en GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats-two.vercel.app/api?username=Codeby-Davi&show_icons=true&theme=radical)
+![Racha de Contribuciones](https://streak-stats.demolab.com/?user=Codeby-Davi&theme=radical)
